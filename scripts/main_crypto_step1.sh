@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# A股数据准备
+# crypto 数据准备
 
 # 获取项目根目录（scripts/ 的父目录）
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
