@@ -182,7 +182,7 @@ def get_price_local_hourly(symbol: str, date: str) -> Dict[str, Any]:
     except ValueError as e:
         return {"error": str(e), "symbol": symbol, "date": date}
 
-    data_path = _workspace_data_path(filename)
+    data_path = _workspace_data_path(filename, symbol)
     if not data_path.exists():
         return {"error": f"Data file not found: {data_path}", "symbol": symbol, "date": date}
 
@@ -243,7 +243,7 @@ def get_price_local_function(symbol: str, date: str, filename: str = "merged.jso
         Dictionary containing symbol, date and ohlcv data.
     """
     try:
-        _validate_date(date)
+        _validate_date_daily(date)
     except ValueError as e:
         return {"error": str(e), "symbol": symbol, "date": date}
 
