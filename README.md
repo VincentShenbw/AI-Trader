@@ -12,7 +12,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/HKUDS/AI-Trader?style=social)](https://github.com/HKUDS/AI-Trader)
+[![GitHub stars](https://img.shields.io/github/stars/VincentShenbw/AI-Trader?style=social)](https://github.com/VincentShenbw/AI-Trader)
 [![Feishu](https://img.shields.io/badge/💬Feishu-Group-blue?style=flat)](./Communication.md) 
 [![WeChat](https://img.shields.io/badge/WeChat-Group-green?style=flat&logo=wechat)](./Communication.md)
 <a href='https://arxiv.org/abs/2512.10971'><img src='https://img.shields.io/badge/arXiv-2512.10971-b31b1b'>
@@ -327,7 +327,7 @@ AI-Trader Bench/
 
 ```bash
 # 1. Clone project
-git clone https://github.com/HKUDS/AI-Trader.git
+git clone https://github.com/VincentShenbw/AI-Trader.git
 cd AI-Trader
 
 # 2. Install dependencies
@@ -820,8 +820,8 @@ class CustomTool:
 
 ## 📞 Support & Community
 
-- **💬 Discussions**: [GitHub Discussions](https://github.com/HKUDS/AI-Trader/discussions)
-- **🐛 Issues**: [GitHub Issues](https://github.com/HKUDS/AI-Trader/issues)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/VincentShenbw/AI-Trader/discussions)
+- **🐛 Issues**: [GitHub Issues](https://github.com/VincentShenbw/AI-Trader/issues)
 
 ## 📄 License
 
@@ -837,35 +837,10 @@ Thanks to the following open source projects and services:
 - [efinance](https://github.com/Micro-sheep/efinance) - A-share hourly data acquisition
 - [Jina AI](https://jina.ai/) - Information search service
 
-## 👥 Administrator
-
-<div align="center">
-
-<a href="https://github.com/TianyuFan0504">
-  <img src="https://avatars.githubusercontent.com/TianyuFan0504?v=4" width="80" height="80" alt="TianyuFan0504" style="border-radius: 50%; margin: 5px;"/>
-</a>
-<a href="https://github.com/yangqin-jiang">
-  <img src="https://avatars.githubusercontent.com/yangqin-jiang?v=4" width="80" height="80" alt="yangqin-jiang" style="border-radius: 50%; margin: 5px;"/>
-</a>
-<a href="https://github.com/yuh-yang">
-  <img src="https://avatars.githubusercontent.com/yuh-yang?v=4" width="80" height="80" alt="yuh-yang" style="border-radius: 50%; margin: 5px;"/>
-</a>
-<a href="https://github.com/Hoder-zyf">
-  <img src="https://avatars.githubusercontent.com/Hoder-zyf?v=4" width="80" height="80" alt="Hoder-zyf" style="border-radius: 50%; margin: 5px;"/>
-</a>
-
-</div>
-
 ## 🤝 Contribution
 
 <div align="center">
-  We thank all our contributors for their valuable contributions.
-</div>
-
-<div align="center">
-  <a href="https://github.com/HKUDS/AI-Trader/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=HKUDS/AI-Trader" style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 217, 255, 0.3);" />
-  </a>
+  Contributions and suggestions are welcome.
 </div>
 
 ## Disclaimer
@@ -878,8 +853,8 @@ The materials provided by the AI-Trader project are for research purposes only a
 
 **🌟 If this project helps you, please give us a Star!**
 
-[![GitHub stars](https://img.shields.io/github/stars/HKUDS/AI-Trader?style=social)](https://github.com/HKUDS/AI-Trader)
-[![GitHub forks](https://img.shields.io/github/forks/HKUDS/AI-Trader?style=social)](https://github.com/HKUDS/AI-Trader)
+[![GitHub stars](https://img.shields.io/github/stars/VincentShenbw/AI-Trader?style=social)](https://github.com/VincentShenbw/AI-Trader)
+[![GitHub forks](https://img.shields.io/github/forks/VincentShenbw/AI-Trader?style=social)](https://github.com/VincentShenbw/AI-Trader)
 
 **🤖 Experience AI's full potential in financial markets through complete autonomous decision-making!**  
 **🛠️ Pure tool-driven execution with zero human intervention—a genuine AI trading arena!** 🚀
@@ -893,11 +868,11 @@ The materials provided by the AI-Trader project are for research purposes only a
 *Community Growth Trajectory*
 
 <div align="center">
-  <a href="https://star-history.com/#HKUDS/AI-Trader&Date">
+  <a href="https://star-history.com/#VincentShenbw/AI-Trader&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=HKUDS/AI-Trader&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=HKUDS/AI-Trader&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HKUDS/AI-Trader&type=Date" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 217, 255, 0.3);" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=VincentShenbw/AI-Trader&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=VincentShenbw/AI-Trader&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=VincentShenbw/AI-Trader&type=Date" style="border-radius: 15px; box-shadow: 0 0 30px rgba(0, 217, 255, 0.3);" />
     </picture>
   </a>
 </div>
@@ -919,5 +894,5 @@ The materials provided by the AI-Trader project are for research purposes only a
 
 <p align="center">
   <em> ❤️ Thanks for visiting ✨ AI-Trader!</em><br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=HKUDS.AI-Trader&style=for-the-badge&color=00d4ff" alt="Views">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VincentShenbw.AI-Trader&style=for-the-badge&color=00d4ff" alt="Views">
 </p>
